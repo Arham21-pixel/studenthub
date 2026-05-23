@@ -1,0 +1,6 @@
+{
+  "name": "Student Life Hub",
+  "description": "An all-in-one productivity app for college students with a timetable, attendance tracker, notes, goals, room database, and AI Study assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
